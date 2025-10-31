@@ -17,6 +17,8 @@
 ||games.roblox.com^
 ||economy.roblox.com^
 ||thumbnails.roblox.com^
+||trades.roblox.com^
+||presence.roblox.com^
 ||notifications.roblox.com^
 ||auth.roblox.com^
 ||metrics.roblox.com^
@@ -35,3 +37,4 @@
 ||rbxtrk.com^
 ||robloxapp.com^
 ||roblox.qq.com^
+
