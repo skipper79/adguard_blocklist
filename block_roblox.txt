@@ -1,0 +1,37 @@
+# =====================================
+# ROBLOX blokkadelijst voor AdGuard Home
+# Laatste update: 2025-10-31
+# Blokkeert alle belangrijke domeinen van Roblox (website, API, assets, CDN)
+# =====================================
+
+||roblox.com^
+||www.roblox.com^
+||m.roblox.com^
+||api.roblox.com^
+||setup.roblox.com^
+||clientsettings.roblox.com^
+||assetdelivery.roblox.com^
+||avatar.roblox.com^
+||presence.roblox.com^
+||friends.roblox.com^
+||games.roblox.com^
+||economy.roblox.com^
+||thumbnails.roblox.com^
+||notifications.roblox.com^
+||auth.roblox.com^
+||metrics.roblox.com^
+||apis.roblox.com^
+||robloxcdn.com^
+||rbxcdn.com^
+||rbx.com^
+||roblox.net^
+||robloxcloud.com^
+||robloxlabs.com^
+||roblox.media^
+||roblox.engineering^
+||rbxapi.com^
+||rbxasset.com^
+||rbximg.com^
+||rbxtrk.com^
+||robloxapp.com^
+||roblox.qq.com^
