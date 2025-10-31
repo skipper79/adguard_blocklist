@@ -32,9 +32,13 @@
 ||roblox.media^
 ||roblox.engineering^
 ||rbxapi.com^
+||robloxapi.com^
 ||rbxasset.com^
 ||rbximg.com^
 ||rbxtrk.com^
 ||robloxapp.com^
+||robloxstatic.com^
+||roblox-hd.com^
 ||roblox.qq.com^
+||*.roblox.com
 
