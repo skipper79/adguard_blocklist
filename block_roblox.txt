@@ -40,5 +40,5 @@
 ||robloxstatic.com^
 ||roblox-hd.com^
 ||roblox.qq.com^
-||*.roblox.com
+
 
